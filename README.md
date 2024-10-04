@@ -9,8 +9,6 @@ A simple platformer game where players navigate through platforms, collect check
 - [How to Play](#how-to-play)
 - [Game Mechanics](#game-mechanics)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
