@@ -1,7 +1,3 @@
-Certainly! Here's a suggested README for your game app:
-
----
-
 # Platformer Game
 
 A simple platformer game where players navigate through platforms, collect checkpoints, and experience gravity-based movement mechanics.
